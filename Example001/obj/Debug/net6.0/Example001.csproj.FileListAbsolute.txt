@@ -1,0 +1,15 @@
+/home/kali/Рабочий стол/Lesson_C#/Example001/bin/Debug/net6.0/Example001
+/home/kali/Рабочий стол/Lesson_C#/Example001/bin/Debug/net6.0/Example001.deps.json
+/home/kali/Рабочий стол/Lesson_C#/Example001/bin/Debug/net6.0/Example001.runtimeconfig.json
+/home/kali/Рабочий стол/Lesson_C#/Example001/bin/Debug/net6.0/Example001.dll
+/home/kali/Рабочий стол/Lesson_C#/Example001/bin/Debug/net6.0/Example001.pdb
+/home/kali/Рабочий стол/Lesson_C#/Example001/obj/Debug/net6.0/Example001.csproj.AssemblyReference.cache
+/home/kali/Рабочий стол/Lesson_C#/Example001/obj/Debug/net6.0/Example001.GeneratedMSBuildEditorConfig.editorconfig
+/home/kali/Рабочий стол/Lesson_C#/Example001/obj/Debug/net6.0/Example001.AssemblyInfoInputs.cache
+/home/kali/Рабочий стол/Lesson_C#/Example001/obj/Debug/net6.0/Example001.AssemblyInfo.cs
+/home/kali/Рабочий стол/Lesson_C#/Example001/obj/Debug/net6.0/Example001.csproj.CoreCompileInputs.cache
+/home/kali/Рабочий стол/Lesson_C#/Example001/obj/Debug/net6.0/Example001.dll
+/home/kali/Рабочий стол/Lesson_C#/Example001/obj/Debug/net6.0/refint/Example001.dll
+/home/kali/Рабочий стол/Lesson_C#/Example001/obj/Debug/net6.0/Example001.pdb
+/home/kali/Рабочий стол/Lesson_C#/Example001/obj/Debug/net6.0/Example001.genruntimeconfig.cache
+/home/kali/Рабочий стол/Lesson_C#/Example001/obj/Debug/net6.0/ref/Example001.dll
