@@ -1,5 +1,6 @@
 ﻿Console.Write("Введите имя: ");
-string username = Console.ReadLine();
+
+string? username = Console.ReadLine();
 
 if (username == "Денис")
 {
