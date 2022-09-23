@@ -29,7 +29,6 @@ else
 }
 }
 
-
 int CenterNumber1(int N)
 {
     int namber1 = ((N / 10000) % 10);
